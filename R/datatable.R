@@ -1,3 +1,5 @@
+# A custom datatable with additional buttons
+
 datatable <- function(dt) {
     DT::datatable(
         dt, extensions = 'Buttons', options = list(
