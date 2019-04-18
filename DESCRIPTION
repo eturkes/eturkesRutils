@@ -4,6 +4,7 @@ Title: Custom Utils
 Version: 0.1.0
 Authors@R: person("Emir", "Turkes", email = "emir.turkes@eturkes.com",
                   role = c("aut", "cre"))
+Description: An R package with custom utils.
 License: CC0
 Encoding: UTF-8
 LazyData: true
