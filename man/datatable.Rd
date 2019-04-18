@@ -8,5 +8,5 @@ datatable(dt)
 A custom datatable with additional buttons.
 }
 \examples{
-datatable(dt)
+# Placeholder until a real example is made.
 }
