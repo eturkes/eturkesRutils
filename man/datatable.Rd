@@ -8,5 +8,5 @@ datatable(dt)
 A custom datatable with additional buttons.
 }
 \examples{
-# Placeholder until a real example is made.
+datatable(iris)
 }
