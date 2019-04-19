@@ -258,6 +258,11 @@ Version: 1.8.4
 Hash: 0ff259c7e21ac20a124869520e209d9f
 Requires: Rcpp
 
+Package: praise
+Source: CRAN
+Version: 1.0.0
+Hash: 77da8f1df873a4b91e5c4a68fe2fb1b6
+
 Package: prettyunits
 Source: CRAN
 Version: 1.0.2
@@ -360,6 +365,12 @@ Package: sys
 Source: CRAN
 Version: 3.1
 Hash: dc2a997b1b9a2d3f9c234491153cb951
+
+Package: testthat
+Source: CRAN
+Version: 2.0.1
+Hash: 777eb6e94f5a62bf6320fecf0175bbbb
+Requires: R6, cli, crayon, digest, magrittr, praise, rlang, withr
 
 Package: tibble
 Source: CRAN
