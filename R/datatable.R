@@ -24,6 +24,5 @@ datatable <- function(dt) {
                 "}"
             )
         )
-    ) %>%
-        DT::formatRound(2)
+    )
 }

@@ -1,7 +1,7 @@
 Package: eturkesRutils
 Type: Package
 Title: Custom Utils
-Version: 0.2.0
+Version: 0.3.0
 Authors@R: person("Emir", "Turkes", email = "emir.turkes@eturkes.com",
                   role = c("aut", "cre"))
 Description: An R package with custom utils.
