@@ -1,5 +1,6 @@
 # Added by Packrat
 packrat/lib*/
+packrat/src/
 .Rproj.user
 
 # History files
