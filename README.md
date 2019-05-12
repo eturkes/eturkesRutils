@@ -1,4 +1,4 @@
 # eturkesRutils
-#### *This project is usable but not feature complete*
+#### *This project contains stable releases with ongoing feature updates*
 
 An R package with custom utils
